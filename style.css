@@ -31,12 +31,11 @@ nav > a
     text-align:center;
   }
   
-  featured-property p
+  featured-property > p
   {
-    width: 1200px; 
+    width: 800px; 
     max-width: 100%;
     text-align:center;
-    align-content: center;
   }
   
   
